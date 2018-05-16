@@ -1,8 +1,3 @@
-// server side
-// to run (assuming requirements installed)
-// compile with command in terminal first: 
-// $ go run server.go
-
 package main
 
 import (
