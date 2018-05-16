@@ -1,8 +1,3 @@
-// client side
-// after running the command on server.go
-// compile with command in a seperate terminal: 
-// $ go run client.go
-
 package main
 
 import (
